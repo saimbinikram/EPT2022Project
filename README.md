@@ -20,7 +20,7 @@ We created a website to showcase the **99 Names of Prophet Muhammad (PBUH)** usi
 ## Website Link
 
 You can view the live project here:  
-[EPT2022Project Website](https://saimbinikram.github.io/EPT2022Project/)
+[Project Website](https://saimbinikram.github.io/EPT2022Project/)
 
 ## Contributors
 - **Saim Bin Ikram** (Designer, HTML/CSS)
